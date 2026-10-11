@@ -1,0 +1,14 @@
+{
+  "name": "h5p-claude-viewer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Agent-friendly H5P viewer with multi-package browsing, xAPI capture, and score reporting",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node launch.mjs",
+    "start:pkg": "node launch.mjs"
+  }
+}
